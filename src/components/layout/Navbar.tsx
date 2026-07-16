@@ -18,7 +18,7 @@ export default function Navbar() {
   return (
     <motion.header
       initial={{ y: -80, opacity: 0 }}
-      animate={{ y: 0, opacity: 1 }}
+      animate={{ y: 0, opacity: 2 }}
       transition={{
         duration: 0.5,
         ease: "easeOut",
