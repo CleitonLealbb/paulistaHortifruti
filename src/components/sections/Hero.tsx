@@ -24,10 +24,10 @@ export default function Hero() {
         className="object-cover object-center"
       />
 
-     
+
       <div className="absolute inset-0 bg-gradient-to-r from-[#f8f6ef] via-[#f8f6ef]/80 to-[#f8f6ef]/0" />
 
-    
+
 
       <div className="relative z-10 mx-auto flex min-h-[540px] max-w-7xl items-center px-4 py-16 sm:px-6 md:min-h-[640px] lg:px-8">
         <motion.div
@@ -47,8 +47,9 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-lg text-lg leading-8 text-stone-700">
-            Do campo à sua mesa. Entregamos a vitalidade da natureza com a
-            qualidade que sua família merece, todos os dias.
+            Frutas, verduras e legumes selecionados de São Paulo e trazidos com
+            cuidado para Nova Xavantina, oferecendo mais frescor, variedade e
+            qualidade para sua família.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-4">
