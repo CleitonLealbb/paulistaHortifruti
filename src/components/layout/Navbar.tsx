@@ -68,7 +68,7 @@ export default function Navbar() {
 
         <div className="hidden items-center gap-3 lg:flex">
           <a
-            href={siteConfig.whatsapp}
+            href={siteConfig.whatsappUrl}
             target="_blank"
             rel="noreferrer"
             onClick={() => setMenuOpen(false)}
@@ -130,7 +130,7 @@ export default function Navbar() {
 
               <div className="mt-8 border-t pt-6">
                 <a
-                  href={siteConfig.whatsapp}
+                  href={siteConfig.whatsappUrl}
                   target="_blank"
                   rel="noreferrer"
                   onClick={() => setMenuOpen(false)}
