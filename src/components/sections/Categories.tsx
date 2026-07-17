@@ -54,7 +54,7 @@ export default function Categories() {
           </div>
 
           <a
-            href={siteConfig.whatsapp}
+            href={siteConfig.whatsappUrl}
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 text-sm font-semibold text-green-950 transition-colors hover:text-orange-700"

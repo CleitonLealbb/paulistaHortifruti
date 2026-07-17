@@ -3,6 +3,7 @@ import Hero from "@/src/components/sections/Hero";
 import Features from "../components/sections/Features";
 import Categories from "../components/sections/Categories";
 import About from "../components/sections/About";
+import  Contact  from "../components/sections/Contact";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <Features/>    
         <Categories />
         <About/>
+        <Contact />
       </main>
     </>
   );

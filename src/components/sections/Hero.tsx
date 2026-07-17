@@ -65,7 +65,7 @@ export default function Hero() {
             </a>
 
             <a
-              href={siteConfig.whatsapp}
+              href={siteConfig.whatsappUrl}
               target="_blank"
               rel="noreferrer"
               className={cn(
