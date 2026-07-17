@@ -1,7 +1,7 @@
 export const navigation = [
   {
     label: "Início",
-    href: "#home",
+    href: "#início",
   },
   {
     label: "Sobre",

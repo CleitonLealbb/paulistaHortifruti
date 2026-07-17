@@ -31,12 +31,12 @@ export default function Contact() {
   return (
     <section
       id="contato"
-      className="bg-white py-20 sm:py-24"
+      className="bg-white py-12 sm:py-10"
     >
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="overflow-hidden rounded-3xl bg-green-950 shadow-xl">
+      <div className="mx-auto max-w-7xl   px-6 sm:px-10 lg:px-8">
+        <div className="overflow-hidden rounded-2xl bg-green-950 shadow-xl">
           <div className="grid lg:grid-cols-2">
-            <div className="p-8 sm:p-10 lg:p-14">
+            <div className="p-6 sm:p-8 lg:p-10">
               <span className="text-sm font-bold uppercase tracking-[0.2em] text-orange-400">
                 Entre em contato
               </span>

@@ -11,7 +11,7 @@ import { cn } from "@/src/lib/utils";
 export default function Hero() {
   return (
     <section
-      id="inicio"
+      id="início"
       className="relative min-h-[520px] overflow-hidden bg-[#f8f6ef] pt-20 md:min-h-[720px]"
     >
       {/* Imagem de fundo */}
@@ -47,7 +47,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-lg text-lg leading-8 text-stone-700">
-            Frutas, verduras e legumes selecionados de São Paulo e trazidos com
+            Frutas, verduras e legumes selecionados em São Paulo e trazidos com
             cuidado para Nova Xavantina, oferecendo mais frescor, variedade e
             qualidade para sua família.
           </p>

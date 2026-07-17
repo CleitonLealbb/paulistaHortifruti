@@ -32,7 +32,7 @@ const categories = [
 export default function Categories() {
   return (
     <section
-      id="produtos"
+      id="categorias"
       className="bg-[#f1efe8] py-20 sm:py-24"
     >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
