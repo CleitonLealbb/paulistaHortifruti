@@ -4,7 +4,7 @@ export const siteConfig = {
 
   whatsappUrl: "https://wa.me/5566999999999",
   phone: "(66) 9 9999-9999",
-
+  instagram:"https://www.instagram.com/",
   address: "Endereço da loja",
   city: "Nova Xavantina - MT",
 

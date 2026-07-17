@@ -4,6 +4,7 @@ import Features from "../components/sections/Features";
 import Categories from "../components/sections/Categories";
 import About from "../components/sections/About";
 import  Contact  from "../components/sections/Contact";
+import Footer from "../components/layout/Footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
         <Categories />
         <About/>
         <Contact />
+        <Footer/>
       </main>
     </>
   );
